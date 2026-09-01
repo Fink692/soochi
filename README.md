@@ -69,8 +69,8 @@ wrong, or confirm that an uncertain entry is still alive.
 
 - The [site form](https://soochi.fyi/submit) needs no GitHub account. It validates
   a proposal and opens a pull request; it never publishes directly.
-- GitHub users can open a [new-entry issue](https://github.com/bebhuvan/soochi/issues/new?template=new-entry.yml)
-  or a [correction](https://github.com/bebhuvan/soochi/issues/new?template=correction.yml).
+- GitHub users can open a [new-entry issue](https://github.com/Fink692/soochi/issues/new?template=new-entry.yml)
+  or a [correction](https://github.com/Fink692/soochi/issues/new?template=correction.yml).
 - Contributors comfortable with Git can add or edit a Markdown file and open a
   pull request.
 
